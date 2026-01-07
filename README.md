@@ -5,30 +5,6 @@ These notebooks demonstrate practical techniques to clean, preprocess, and prepa
 
 ---
 
-## 📁 Repository Structure
-
-```
-📂 data-cleaning-practice/
-│
-├── notebooks/
-│   ├── missing_values_cleaning.ipynb
-│   ├── duplicates_handling.ipynb
-│   ├── outlier_treatment_IQR.ipynb
-│   ├── datetime_parsing_cleaning.ipynb
-│   ├── feature_encoding_scaling.ipynb
-│   └── ...
-│
-├── datasets/
-│   ├── sales_data.csv
-│   ├── customers.xlsx
-│   ├── transactions.csv
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## 🧠 Skills & Concepts Covered
 
 Each notebook focuses on a key part of the data cleaning lifecycle:
